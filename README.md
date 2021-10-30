@@ -26,9 +26,6 @@
 <p>
   🌐 <a href="https://cristofer.dev">My website</a>
 </p>
-<p>
-  📫 How to reach me in <a href="https://www.linkedin.com/in/cristoferdev/">linkedin</a>
-</p>
 
 
 <!--
