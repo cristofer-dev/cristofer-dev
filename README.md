@@ -20,15 +20,16 @@
   <img alt="AWS SQS" src="https://img.shields.io/badge/-SQS-F7B93E?style=flat-square&logo=amazon-aws&logoColor=black" >
   <img alt="AWS CodeBuild" src="https://img.shields.io/badge/-codeBuild-F7B93E?style=flat-square&logo=amazon-aws&logoColor=black" >
 </p>
-<p>
+
   🌱  I am currently ~~trying~~ to learn hexagonal architecture and improve my ~~bad~~ english.
+
+<p>
+  🌐 <a href="https://cristofer.dev">My website</a>
 </p>
 <p>
-  🌐 [My website](https://cristofer.dev)
+  📫 How to reach me in <a href="https://www.linkedin.com/in/cristoferdev/">linkedin</a>
 </p>
-<p>
-  📫 How to reach me in [linkedin](https://www.linkedin.com/in/cristoferdev/)
-</p>
+
 
 <!--
 **cristofer-dev/cristofer-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
