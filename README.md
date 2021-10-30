@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working with
+  🔭 I’m currently working with
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Material-UI" src="https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=material-ui" />
@@ -20,8 +20,15 @@
   <img alt="AWS SQS" src="https://img.shields.io/badge/-SQS-F7B93E?style=flat-square&logo=amazon-aws&logoColor=black" >
   <img alt="AWS CodeBuild" src="https://img.shields.io/badge/-codeBuild-F7B93E?style=flat-square&logo=amazon-aws&logoColor=black" >
 </p>
-
-🌱  I am currently ~~trying~~ to learn hexagonal architecture and improve my ~~bad~~ english.
+<p>
+  🌱  I am currently ~~trying~~ to learn hexagonal architecture and improve my ~~bad~~ english.
+</p>
+<p>
+  🌐 ![My website](https://cristofer.dev)
+</p>
+<p>
+  📫 How to reach me in ![linkedin](https://www.linkedin.com/in/cristoferdev/)
+</p>
 
 <!--
 **cristofer-dev/cristofer-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
