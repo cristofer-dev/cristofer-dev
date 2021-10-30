@@ -24,10 +24,10 @@
   🌱  I am currently ~~trying~~ to learn hexagonal architecture and improve my ~~bad~~ english.
 </p>
 <p>
-  🌐 ![My website](https://cristofer.dev)
+  🌐 [My website](https://cristofer.dev)
 </p>
 <p>
-  📫 How to reach me in ![linkedin](https://www.linkedin.com/in/cristoferdev/)
+  📫 How to reach me in [linkedin](https://www.linkedin.com/in/cristoferdev/)
 </p>
 
 <!--
