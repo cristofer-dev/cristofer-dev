@@ -24,7 +24,7 @@
   🌱  I am currently ~~trying~~ to learn hexagonal architecture and improve my ~~bad~~ english.
 
 <p>
-  🌐 <a href="https://cristofer.dev">My website</a>
+  🌐 <a href="https://cristofer.dev">www.cristofer.dev</a>
 </p>
 
 
